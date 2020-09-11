@@ -1,0 +1,2 @@
+# Cenote
+WordPress theme free
